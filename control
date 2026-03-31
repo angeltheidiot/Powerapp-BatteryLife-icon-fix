@@ -1,0 +1,9 @@
+Package: com.legacyguides.iconfix2
+Section: Utilities
+Author: LegacyGuides <contact@legacyios.com>
+Maintainer: LegacyGuides <admin@legacyios.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Description: A script that fixes PowerApp and BatteryLife icons on iOS 6 and below.
+Name: Powerapp/BatteryLife icon fix 
+Depends: firmware (<= 6.1.6)
